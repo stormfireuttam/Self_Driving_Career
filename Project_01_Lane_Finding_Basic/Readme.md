@@ -22,6 +22,8 @@ The goal of this first project was to create a simple pipeline to detect road li
 
 **Intended Audience**: Education, Developers, Data Scientists, AI professionals
 
+[Notebook](https://colab.research.google.com/drive/1CDYoNzI6TW3uNawPLgtxWeoPvBxHhoh9?authuser=3#scrollTo=_oZb9X-_fCtN)
+
 Being the very first project, the pipeline is necessarily very simple. No machine learning is involved - just computer vision and a lot of boring manual parameter tuning. :-)
 
 <img src="https://github.com/stormfireuttam/Self_Driving_Career/blob/main/Project_01_Lane_Finding_Basic/output.png"/>
